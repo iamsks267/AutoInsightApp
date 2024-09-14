@@ -1,0 +1,13 @@
+prefix=/Users/apple/Documents/Innovations/AutoInsight/venv
+exec_prefix=/Users/apple/Documents/Innovations/AutoInsight/venv
+libdir=/Users/apple/Documents/Innovations/AutoInsight/venv/lib
+sharedlibdir=/Users/apple/Documents/Innovations/AutoInsight/venv/lib
+includedir=/Users/apple/Documents/Innovations/AutoInsight/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

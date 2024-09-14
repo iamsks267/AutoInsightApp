@@ -1,0 +1,28 @@
+--- ***Create Virtual Environment*** ---
+
+1. To create Virtual Environment
+conda create -p venv python=3.12.4 
+
+2. Activate Virtual Environment
+conda activate venv/
+
+3. To view whether your venv is activated
+conda info --envs
+
+4. Download required packages using: 
+pip install package_name
+
+
+--- ***Generate a requirements.txt file automatically from your environment*** ---
+pip freeze > requirements.txt
+
+
+--- ***Convert app.py file to macOS Application (.app)*** ---
+pip install pyinstaller
+pyinstaller --onefile --windowed --name "MyAppName" your_script.py
+
+
+--- ***Distrbution*** ---
+You can find the file disturibution in the dist folder for direct consumption
+
+
