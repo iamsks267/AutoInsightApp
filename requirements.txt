@@ -1,5 +1,5 @@
 numba
 streamlit
-ydata-profiling<4.7.0
+ydata-profiling>=4.6.9
 streamlit-pandas-profiling
 pandas
