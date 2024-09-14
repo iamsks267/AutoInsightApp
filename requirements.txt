@@ -71,6 +71,8 @@ urllib3
 wheel
 wordcloud
 ydata-profiling
+streamlit
 streamlit-pandas-profiling
-visions==0.7.5
+visions==0.7.4
+
 
