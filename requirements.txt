@@ -71,4 +71,4 @@ urllib3==2.2.3
 visions
 wheel==0.44.0
 wordcloud==1.9.3
-ydata-profiling==4.10.0
+ydata-profiling
