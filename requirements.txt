@@ -58,7 +58,6 @@ six
 smmap
 statsmodels
 streamlit
-streamlit-pandas-profiling
 tangled-up-in-unicode
 tenacity
 toml
@@ -72,7 +71,6 @@ wheel
 wordcloud
 ydata-profiling
 streamlit
-streamlit-pandas-profiling
 ydata-profiling==4.7.0
 visions==0.7.5
 pip
