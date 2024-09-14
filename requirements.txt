@@ -68,6 +68,5 @@ typeguard==4.3.0
 typing_extensions==4.12.2
 tzdata==2024.1
 urllib3==2.2.3
-visions
 wheel==0.44.0
 ydata-profiling
