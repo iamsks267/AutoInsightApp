@@ -51,6 +51,7 @@ requests==2.32.3
 rich==13.8.1
 rpds-py==0.20.0
 scipy
+pip
 seaborn
 setuptools==72.1.0
 six==1.16.0
@@ -69,3 +70,4 @@ tzdata==2024.1
 urllib3==2.2.3
 wheel==0.44.0
 ydata-profiling
+phik==0.12.2 
