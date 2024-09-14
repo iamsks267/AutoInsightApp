@@ -68,7 +68,6 @@ typeguard
 typing_extensions
 tzdata
 urllib3
-visions
 wheel
 wordcloud
 ydata-profiling
