@@ -1,6 +1,10 @@
 ## 🔍AutoInsightApp ##
-AutoInsightApp is a powerful tool designed to streamline exploratory data analysis (EDA) for data scientists, analysts, and enthusiasts. By leveraging the `ydata-profiling` library, this application automates the process of generating insightful and comprehensive EDA reports from CSV files. 
+AutoInsightApp is a powerful tool designed to streamline exploratory data analysis (EDA) for data scientists, analysts, and enthusiasts. 
+By leveraging the `ydata-profiling` library, this application automates the process of generating insightful and comprehensive EDA reports from CSV files. 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/9b1639f1-1ffa-475f-90a4-2daa87cc237a">
+
+## 🔗Global Access Link ##
+Streamlit community Cloud: [AutoInsightApp](https://autoinsightapp.streamlit.app)
 
 💻 **Streamlit** provides an intuitive and interactive user interface, making it easy to upload your CSV files and view detailed reports. AutoInsightApp helps you uncover valuable insights and visualizations quickly and efficiently.
 
