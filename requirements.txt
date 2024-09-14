@@ -71,5 +71,4 @@ typing_extensions
 tzdata
 urllib3
 wheel
-ydata-profiling
 phik
