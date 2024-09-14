@@ -73,6 +73,8 @@ wordcloud
 ydata-profiling
 streamlit
 streamlit-pandas-profiling
+streamlit
+streamlit-pandas-profiling
 visions
-
+pip
 
