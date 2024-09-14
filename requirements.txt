@@ -71,7 +71,7 @@ wheel
 wordcloud
 ydata-profiling
 streamlit
-ydata-profiling==4.7.0
+ydata_profiling
 visions==0.7.5
 pip
-
+streamlit-pandas-profiling
