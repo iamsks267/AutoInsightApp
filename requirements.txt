@@ -15,14 +15,14 @@ GitPython==3.1.43
 htmlmin==0.1.12
 idna==3.9
 ImageHash
-Jinja2==3.1.4
+Jinja2
 joblib
 jsonschema==4.23.0
 jsonschema-specifications==2023.12.1
 kiwisolver==1.4.7
 llvmlite==0.43.0
 markdown-it-py==3.0.0
-MarkupSafe==2.1.5
+MarkupSafe
 matplotlib
 mdurl==0.1.2
 missingno
