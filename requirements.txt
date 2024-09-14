@@ -30,7 +30,7 @@ multimethod==1.12
 narwhals==1.8.0
 networkx==3.3
 numba==0.60.0
-numpy==2.0.2
+numpy
 packaging==24.1
 pandas==2.2.2
 patsy==0.5.6
