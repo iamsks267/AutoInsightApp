@@ -16,7 +16,7 @@ htmlmin==0.1.12
 idna==3.9
 ImageHash
 Jinja2==3.1.4
-joblib==1.1.1
+joblib
 jsonschema==4.23.0
 jsonschema-specifications==2023.12.1
 kiwisolver==1.4.7
