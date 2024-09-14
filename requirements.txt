@@ -73,6 +73,6 @@ wordcloud
 ydata-profiling
 streamlit
 streamlit-pandas-profiling
-visions==0.7.4
+visions
 
 
