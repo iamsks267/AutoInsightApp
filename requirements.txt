@@ -72,4 +72,3 @@ urllib3
 wheel
 phik
 ydata-profiling
-streamlit_pandas_profiling
