@@ -66,10 +66,10 @@ toml
 tornado
 tqdm
 typeguard
-typing_extensions
+typing-extensions
 tzdata
 urllib3
 wheel
 phik
-ydata_profiling
-streamlit_pandas_profiling
+ydata-profiling
+streamlit-pandas-profiling
