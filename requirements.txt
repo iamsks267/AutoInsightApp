@@ -71,5 +71,5 @@ tzdata
 urllib3
 wheel
 phik
-pandas_profiling
+ydata-profiling
 streamlit_pandas_profiling
