@@ -1,5 +1,4 @@
 pip
-visions
 altair
 annotated-types
 attrs
@@ -71,5 +70,6 @@ tzdata
 urllib3
 wheel
 phik
-ydata-profiling
+ydata-profiling==4.7.0
+visions[type-image-path]==0.7.5
 streamlit_pandas_profiling
