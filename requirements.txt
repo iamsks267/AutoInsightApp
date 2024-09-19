@@ -1,3 +1,4 @@
+visions
 ydata-profiling
 streamlit-pandas-profiling
 pip
