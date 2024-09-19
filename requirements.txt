@@ -70,6 +70,6 @@ tzdata
 urllib3
 wheel
 phik
-ydata-profiling==4.7.0
-visions==0.7.5
-streamlit-pandas-profiling
+ydata-profiling
+visions
+streamlit-pandas-profiling --no-deps
