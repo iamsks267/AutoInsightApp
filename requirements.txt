@@ -1,3 +1,5 @@
+ydata-profiling
+streamlit-pandas-profiling
 pip
 altair
 annotated-types
@@ -70,5 +72,3 @@ tzdata
 urllib3
 wheel
 phik
-ydata-profiling
-streamlit-pandas-profiling
