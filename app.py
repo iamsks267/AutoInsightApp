@@ -2,7 +2,6 @@ import sys
 import pandas as pd
 import streamlit as st
 from ydata_profiling import ProfileReport
-from streamlit_pandas_profiling import st_profile_report
 from datetime import datetime
 import os
 
@@ -58,7 +57,9 @@ if uploaded_file is not None:
     st.write(df)
     st.write('---')
     st.header('**Pandas Profiling Report**')
-    st_profile_report(ProfileReport(df, explorative=True))
+    
+    # Display the ProfileReport directly using Streamlit's `components.html`
+    st.components.v1.html(report_html, height=1000, scrolling=True)
 
     # Add button to save the report as HTML
     st.download_button(
