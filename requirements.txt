@@ -71,5 +71,4 @@ urllib3
 wheel
 phik
 ydata-profiling
-visions
-streamlit-pandas-profiling --no-deps
+streamlit-pandas-profiling
